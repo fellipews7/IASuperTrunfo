@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfmajHpgTBVn1nb26SukBY3h5Wny25uCnjBAa2i1xsng4yd13YbTtNXke3KAmWliKdYrbi1Im889ga9Z/yTC4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lipew\\source\\repos\\IASuperTrunfo\\GIT\\IASuperTrunfo\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lipew\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\lipew\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
